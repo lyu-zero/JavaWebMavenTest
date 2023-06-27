@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serviceTestProject">
+    <output-path>$PROJECT_DIR$/out/artifacts/serviceTestProject</output-path>
+    <root id="archive" name="serviceTestProject.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWebMavenTest" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: io.leopard.boot:leopard-boot-requestmapping:0.9.20" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.9.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.9.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.21.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.21.RELEASE" />
+          <element id="library" level="project" name="Maven: net.sunshow.nxcloud:nxcloud-ext-spring-boot-starter-springmvc-automapping:0.3.6" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" />
+          <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" />
+          <element id="library" level="project" name="Maven: io.github.microutils:kotlin-logging-jvm:2.1.23" />
+          <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.0" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.32" />
+          <element id="library" level="project" name="Maven: net.sunshow.nxcloud:nxcloud-springmvc-automapping:0.3.6" />
+          <element id="library" level="project" name="Maven: net.sunshow.nxcloud:nxcloud-springmvc-automapping-base:0.3.6" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.75" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-annotations-api:9.0.75" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="JavaWebMavenTest/web/Web" />
+    </root>
+  </artifact>
+</component>
